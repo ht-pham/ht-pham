@@ -1,6 +1,6 @@
 ### Hi there, I'm Hannah! 👋
 
-I'm a PhD student in Computer Science focusing on bioinformatics. I love building intelligent systems that turn data into meaningful insights. 🚀
+I'm a PhD student in Computer Science focusing on applied AI in healthcare and bioinformatics. I love building intelligent systems that turn data into meaningful insights. 🚀
 
 ### 🔬 What I Work On
 - 🧠 **Machine Learning & Deep Learning**: Supervised learning, Graph Neural Network
@@ -9,14 +9,14 @@ I'm a PhD student in Computer Science focusing on bioinformatics. I love buildin
 - 🛠️ **Software & Automation**: Python scripting, APIs, ETL pipelines
 
 ### 📂 Featured Projects
-📊 **Lung Cancer Risk Prediction using Multi-modal ML integration** - [GitHub](https://github.com/ht-pham/breast-cancer)  
+📊 **Lung Cancer Risk Prediction using Multi-modal ML integration** - [GitHub](https://github.com/ht-pham/lung-cancer)  
 📊 **Multi-Modal Breast Cancer Diagnosis via ML Integration** - [GitHub](https://github.com/ht-pham/breast-cancer)  
 📝 **AI-Driven Cardiovascular Disease Risk Assessment** - [GitHub](https://github.com/ht-pham/heart-disease)  
 
 ### 📚 Learning & Growth
 I'm currently:  
 - 📖 Studying **ML Engineering concepts** (Feature Engineering, MLOps, Model Deployment with AWS,)
-- 💡 Experimenting with **LLMs & Generative AI**
+- 💡 Experimenting with **DNA projects**
 - 🎯 Preparing for **AWS Certified ML Associate**
 
 ### 📬 Connect with Me
