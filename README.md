@@ -1,18 +1,16 @@
 ### Hi there, I'm Hannah! 👋
 
-I'm a **Data Analyst** transitioning into a **Machine Learning Engineer** role. With a strong background in **data analysis, machine learning, and NLP**, I love building intelligent systems that turn data into actionable insights. 🚀
+I'm a PhD student in Computer Science focusing on bioinformatics. I love building intelligent systems that turn data into meaningful insights. 🚀
 
 ### 🔬 What I Work On
-- 🧠 **Machine Learning & NLP**: Supervised learning, sentiment analysis, object detection
-- 📊 **Data Analysis & Visualization**: Python, SQL, Excel, Tableau
+- 🧠 **Machine Learning & Deep Learning**: Supervised learning, Graph Neural Network
+- 📊 **Data Analysis & Visualization**: Python, SQL, Excel, Matplotlib, Seaborns
 - 🏗️ **ML Engineering & Deployment**: TensorFlow, PyTorch, Scikit-learn, Flask, Docker
 - 🛠️ **Software & Automation**: Python scripting, APIs, ETL pipelines
 
 ### 📂 Featured Projects
-🚀 **ML-Based Mental Health Disorder Classification** - Work In Progress  
-
+📊 **Lung Cancer Risk Prediction using Multi-modal ML integration** - [GitHub](https://github.com/ht-pham/breast-cancer)  
 📊 **Multi-Modal Breast Cancer Diagnosis via ML Integration** - [GitHub](https://github.com/ht-pham/breast-cancer)  
-
 📝 **AI-Driven Cardiovascular Disease Risk Assessment** - [GitHub](https://github.com/ht-pham/heart-disease)  
 
 ### 📚 Learning & Growth
